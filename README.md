@@ -17,7 +17,7 @@ me = InformationTechnologyStudent()
 ```
 # [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=30&pause=1000&color=F7F7F7&repeat=false&random=false&width=435&lines=About+me%3A)](https://git.io/typing-svg)
 
-- 👩‍🔬 **Scientist reseacher** at [CILab](https://github.com/cilab-ufersa) (Computacional Intelligence Laboratory);
+- 👩‍🔬 **Scientific developer** at [CILab](https://github.com/cilab-ufersa) (Computacional Intelligence Laboratory);
 - 👩‍💻 **Back-end developer** at [AltoTech](https://github.com/https-github-com-AltoTechJr);
 
 # [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=30&pause=1000&color=F7F7F7&repeat=false&random=false&width=435&lines=Languages+and+tools%3A)](https://git.io/typing-svg)
