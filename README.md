@@ -25,7 +25,6 @@ me = InformationTechnologyStudent()
 <code><img height="40" src="https://cdn.simpleicons.org/c"></code>
 <code><img height="40" src="https://cdn.simpleicons.org/opencv"></code>
 <code><img height="40" src="https://cdn.simpleicons.org/git"></code>
-<code><img height="40" src="https://cdn.simpleicons.org/Keras"></code>
 <code><img height="40" src="https://cdn.simpleicons.org/NumPy"></code>
 <code><img height="40" src="https://cdn.simpleicons.org/Pandas"></code>
 <code><img height="40" src="https://cdn.simpleicons.org/GNUBash"></code>
